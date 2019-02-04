@@ -1,0 +1,178 @@
+alachua 8
+altamonte springs 18
+anna maria 12
+apalachicola 2
+apopka 9
+atlantic beach 4
+auburndale 10
+aventura 11
+avon park 10
+bal harbour 11
+bartow 10
+bay harbor islands 11
+boca raton 15
+bonita springs 20
+boynton beach 15
+bradenton 12
+brooksville 5
+cape canaveral 18
+cape coral 20
+casselberry 18
+celebration 9
+chipley 14
+cinco bayou 1
+clearwater 6
+clewiston 20
+cocoa 18
+cocoa beach 18
+coconut creek 17
+coral gables 11
+coral springs 17
+crystal river 5
+dania beach 17
+daytona beach 7
+davie 17
+deerfield beach 17
+defuniak springs 1
+deland 7
+delray beach 15
+deltona 7
+destin 1
+dunedin 6
+eagle lake 10
+edgewood 9
+edgewater 7
+eustis 5
+fort lauderdale 17
+fort meade 10
+fort myers 20
+fort myers beach 20
+fort pierce 19
+fort walton beach 1
+fruitland park 5
+greenacres 15
+green cove springs 4
+gulf breeze 1
+gulfport 6
+haines city 10
+hallandale beach 17
+hawthorne 8
+hialeah 11
+hialeah gardens 11
+highland beach 15
+holly hill 7
+hollywood 17
+holmes beach 12
+homestead 11
+hypoluxo 15
+indialantic 18
+jacksonville 4
+juno beach 15
+jupiter 15
+key biscayne 11
+key west 16
+kissimmee 9
+labelle 20
+lady lake 5
+lakeland 10
+lake alfred 10
+lake mary 18
+lake park 15
+lake wales 10
+lake worth 15
+lantana 15
+largo 6
+lauderhill 17
+leesburg 5
+lighthouse point 17
+longboat key 12
+longwood 18
+marathon 16
+marco island 20
+margate 17
+maitland 9
+melbourne 18
+melbourne beach 18
+miami 11
+miami beach 11
+milton 1
+minneola 5
+miramar 17
+mount dora 5
+naples 20
+neptune beach 4
+new port richey 6
+new smyrna beach 7
+niceville 1
+north fort myers 20
+north miami 11
+north miami beach 11
+north port 12
+oakland park 17
+ocala 5
+ocean ridge 15
+ocoee 9
+okeechobee 19
+oldsmar 6
+orange park 4
+orlando 9
+ormond beach 7
+oviedo 18
+palatka 7
+palm bay 18
+palm beach 15
+palm beach gardens 15
+palm coast 7
+palmetto 12
+panama city 14
+pembroke pines 17
+pensacola 1
+pinecrest 11
+pinellas park 6
+plant city 13
+plantation 17
+pompano beach 17
+ponce inlet 7
+port orange 7
+port st. lucie 19
+punta gorda 20
+rockledge 18
+royal palm beach 15
+saint augustine 7
+saint augustine beach 7
+saint cloud 9
+saint pete beach 6
+saint petersburg 6
+safety harbor 6
+sanford 18
+sanibel 20
+sarasota 12
+satellite beach 18
+seaside 1
+sebastian 19
+sebring 10
+sewall's point 19
+shalimar 1
+silver springs 5
+stuart 19
+surfside 11
+tallahassee 2
+tamarac 17
+tampa 13
+tarpon springs 6
+tavares 5
+temple terrace 13
+titusville 18
+treasure island 6
+valparaiso 1
+venice 12
+vero beach 19
+wellington 15
+west melbourne 18
+weston 17
+west palm beach 15
+wilton manors 17
+winter garden 9
+winter haven 10
+winter park 9
+winter springs 18
