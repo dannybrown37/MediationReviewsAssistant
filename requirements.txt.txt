@@ -1,0 +1,5 @@
+pip install pywin32
+pip install uszipcode
+pip install docx
+pip install nameparser
+pip install docx-mailmerge
